@@ -9,4 +9,4 @@ int main () {
 	cout << c << endl;
 	// End program
 	return 0;
-};
+}

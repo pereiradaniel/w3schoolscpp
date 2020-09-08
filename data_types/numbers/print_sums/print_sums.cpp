@@ -4,17 +4,17 @@ int main() {
 	int x, y;	// Stores the user inputs.
 	int sum;	// Stores the sum.
 	// Prompt user for input:
-		cout << "Enter a number: ";
+	cout << "Enter a number: ";
 	// Get first number x:
-		cin >> x;
+	cin >> x;
 	// Prompt user for input:
-		cout << "Enter a number: ";
+	cout << "Enter a number: ";
 	// Get second number y:
-		cin >> y;
+	cin >> y;
 	// Add the two numbers and assign to sum:
-		sum = x + y;
+	sum = x + y;
 	// Display the sum:
-		cout << "Sum of x" << x << " and y" << y << " is: " << sum << endl;	
+	cout << "Sum of x" << x << " and y" << y << " is: " << sum << endl;	
 	// End program.
-		return 0;
+	return 0;
 }
